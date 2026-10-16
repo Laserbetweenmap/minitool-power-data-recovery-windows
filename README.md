@@ -2,7 +2,7 @@
 
 MiniTool Power Data Recovery on Windows 10/11 x64. 136 MB. Requirements, screenshots, MoggyDay Launcher.
 
-Site: [EN](https://moggydayprogram.com/en/programs/minitool-power-data-recovery) · [RU](https://moggydayprogram.com/programs/minitool-power-data-recovery) · [Pages](https://pebblechiefsever.github.io/minitool-power-data-recovery-windows/)
+Site: [EN](https://moggydayprogram.com/en/programs/minitool-power-data-recovery) · [RU](https://moggydayprogram.com/programs/minitool-power-data-recovery) · [Pages](https://laserbetweenmap.github.io/minitool-power-data-recovery-windows/)
 
 <p>
   <a href="https://moggydayprogram.com/programs/minitool-power-data-recovery"><img src="docs/media/preview.jpg" alt="MiniTool Power Data Recovery" width="640"></a>
@@ -30,4 +30,4 @@ Also:
 - [Recuva](https://moggydayprogram.com/programs/recuva)
 - [R-Studio](https://moggydayprogram.com/programs/r-studio)
 
-Pages: https://pebblechiefsever.github.io/minitool-power-data-recovery-windows/
+Pages: https://laserbetweenmap.github.io/minitool-power-data-recovery-windows/
